@@ -2,7 +2,7 @@ const prompt = require('prompt-sync')();
 
 var vetor = [];
 for(let i=0; i<10;i ++){
-    let num = prompt("Digite um Numero: ")
+    let num = prompt("Digite um Numero correto: ")
     vetor.push(num)
    
 }
